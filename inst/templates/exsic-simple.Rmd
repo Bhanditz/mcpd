@@ -1,0 +1,29 @@
+Indices
+=========
+
+Source: `r exsic.database()`
+
+List of selected countries
+--------------------------
+`r index.countries()`
+
+Numerical list of species
+-------------------------
+`r index.species()`
+
+Index to numbered collections
+-----------------------------
+The numbers in parentheses refer to the corresponding species in the text and in the Numerical List of Species presented above.
+
+`r index.collections()`
+
+Citations of specimens
+----------------------
+`r index.species.short()`
+
+`r index.specimens()`
+
+
+
+
+
